@@ -42,7 +42,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                     <label for="gambar">Gambar</label>
                     <input type="file" name="gambar" class="form-control" required>
                 </div>
-                <button type="submit" class="btn btn-primary">Tambah Produk</button>
+                <button type="submit" class="btn btn-info">Tambah Produk</button>
             </form>
         </div>
     </div>
